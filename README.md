@@ -38,10 +38,8 @@ El desarrollo sigue la secuencia prueba que falla, implementación mínima y
 refactorización. Las suites separadas permiten revisar qué casos nacieron del
 diseño manual y cuáles surgieron del prompt de IA.
 
-## Publicación en GitHub
+## Repositorio público
 
-1. Crear un repositorio público vacío llamado `tres-en-raya-tdd`.
-2. Ejecutar `git remote add origin URL_DEL_REPOSITORIO`.
-3. Ejecutar `git push -u origin main`.
+El proyecto está publicado en <https://github.com/lauraperez0425/tres-en-raya-tdd>.
 
 Referencia consultada: <https://github.com/gpalabral/TDD>.
